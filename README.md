@@ -1,7 +1,5 @@
-#陣内離婚！！！！
-##隠された真実とは・・・・？？？
+#Gitチュートリアル
 
-#Hello World
-##Please enter the button!!!
-
-This is featureB
+	-feature-A
+	-fix-B
+	-feature-C
